@@ -24,7 +24,7 @@ namespace BingoGameApi.Controllers
         {
             List<string> existingUsers = new List<string>()
             {
-                "Kobi","Avi","Davis","Ariel"
+                "Kobi"
             };
 
 
